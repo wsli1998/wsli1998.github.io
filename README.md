@@ -6,7 +6,7 @@
 
 
 ## About me 
-I'm a Computer Engineering Student. And I'm learning React.js.
+Computer Engineering Student. And I'm learning React
 
 
 
