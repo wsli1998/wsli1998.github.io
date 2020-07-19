@@ -12,4 +12,4 @@ I'm a Computer Engineering Student. And I'm learning React.js.
 
 ### My Stats
 
-![Sam's stats](https://github-readme-stats.vercel.app/api?username=wslial&show_icons=true)
+![Sam's stats](https://github-readme-stats.vercel.app/api?username=wslisam&show_icons=true)
