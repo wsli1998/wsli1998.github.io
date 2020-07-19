@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/wslisam.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/wslisam.github.io/static/js/main.acd601fb.chunk.js",
-    "main.js.map": "/wslisam.github.io/static/js/main.acd601fb.chunk.js.map",
-    "runtime-main.js": "/wslisam.github.io/static/js/runtime-main.2cf9d27e.js",
-    "runtime-main.js.map": "/wslisam.github.io/static/js/runtime-main.2cf9d27e.js.map",
-    "static/js/2.006a1eb8.chunk.js": "/wslisam.github.io/static/js/2.006a1eb8.chunk.js",
-    "static/js/2.006a1eb8.chunk.js.map": "/wslisam.github.io/static/js/2.006a1eb8.chunk.js.map",
-    "index.html": "/wslisam.github.io/index.html",
-    "precache-manifest.fd938f5ebb2363116d06f2886c5c8cb4.js": "/wslisam.github.io/precache-manifest.fd938f5ebb2363116d06f2886c5c8cb4.js",
-    "service-worker.js": "/wslisam.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/wslisam.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.006a1eb8.chunk.js.LICENSE.txt": "/wslisam.github.io/static/js/2.006a1eb8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/wslisam.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/wslisam/static/css/main.5f361e03.chunk.css",
+    "main.js": "/wslisam/static/js/main.48232f5e.chunk.js",
+    "main.js.map": "/wslisam/static/js/main.48232f5e.chunk.js.map",
+    "runtime-main.js": "/wslisam/static/js/runtime-main.1f3f81ad.js",
+    "runtime-main.js.map": "/wslisam/static/js/runtime-main.1f3f81ad.js.map",
+    "static/js/2.cf0299b4.chunk.js": "/wslisam/static/js/2.cf0299b4.chunk.js",
+    "static/js/2.cf0299b4.chunk.js.map": "/wslisam/static/js/2.cf0299b4.chunk.js.map",
+    "index.html": "/wslisam/index.html",
+    "precache-manifest.6968106033b9cfef2016169e4883c9ea.js": "/wslisam/precache-manifest.6968106033b9cfef2016169e4883c9ea.js",
+    "service-worker.js": "/wslisam/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/wslisam/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cf0299b4.chunk.js.LICENSE.txt": "/wslisam/static/js/2.cf0299b4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/wslisam/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2cf9d27e.js",
-    "static/js/2.006a1eb8.chunk.js",
+    "static/js/runtime-main.1f3f81ad.js",
+    "static/js/2.cf0299b4.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.acd601fb.chunk.js"
+    "static/js/main.48232f5e.chunk.js"
   ]
 }

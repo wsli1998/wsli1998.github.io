@@ -1,6 +1,6 @@
 {
-  "homepage": "http://wslisam.github.io/wslisam.github.io",
-  "name": "wslisam.github.io",
+  "homepage": "http://wslisam.github.io/wslisam",
+  "name": "wslisam",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
