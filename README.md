@@ -1,4 +1,4 @@
-# Sam Li
+# Hi, I'm Sam Li 👋
 
 [![Github](https://img.shields.io/github/followers/wslisam?label=Follow&style=social)](https://github.com/wslisam)
 [![Mail](https://img.shields.io/badge/-wslial1009@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](wslial1009@gmail.com)
