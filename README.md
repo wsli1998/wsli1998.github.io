@@ -8,7 +8,7 @@
 
 ## About me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 ⚡ Majoring in Computer Engineering.  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
-⚡ I’m currently learning React.
+
 
 
 ## My Portfolio 👀
